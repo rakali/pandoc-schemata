@@ -11,4 +11,4 @@ More information on JSON Schema [here](http://json-schema.org/) and [here](http:
 
 ### Licence
 
-[Creative Commons CC 0](LICENSE)
+[Creative Commons CC 0](LICENSE).
