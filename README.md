@@ -5,6 +5,9 @@ JSON Schema files for Pandoc JSON
 
 * `default.json` validates minimal Pandoc JSON file
 * `jekyll.json` validates Jekyll YAML header (layout and title are required)
+* `jats.json` validates JATS (currently a limited subset)
+
+More information on JSON Schema [here](http://json-schema.org/) and [here](http://spacetelescope.github.io/understanding-json-schema/). More information on Pandoc filters [here](http://johnmacfarlane.net/pandoc/scripting.html).
 
 ### Licence
 
